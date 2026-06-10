@@ -95,7 +95,7 @@ The game includes:
 
 ## 👤 Author
 
-Created by **Jussi**
+Created by **Manshi **
 
 ---
 
