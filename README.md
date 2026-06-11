@@ -95,7 +95,7 @@ The game includes:
 
 ## 👤 Author
 
-Created by **Manshi **
+Created by - Manshi 
 
 ---
 
@@ -104,9 +104,3 @@ Created by **Manshi **
 This project is free to use for learning purposes.
 
 ---
-
-If you'd like, I can also create:
-
-* A more professional GitHub-style README
-* A version with screenshots section
-* Or a version formatted for portfolio presentation 🚀
